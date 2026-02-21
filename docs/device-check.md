@@ -21,6 +21,7 @@
 ---
 
 ## Evidence Checklist
+<img width="644" height="445" alt="Screenshot 2026-02-21 at 2 01 16 AM" src="https://github.com/user-attachments/assets/ee9d6da8-ed8f-44c3-983d-81901ed66494" />
 
 - [ ] Screenshot: OS version
 - [ ] Screenshot: RAM and CPU details
