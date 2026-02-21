@@ -19,9 +19,10 @@
 | Internet Speed (Download) | (from speedtest.net — Mbps) |
 
 ---
-![Image 2-21-26 at 12 41 AM](https://github.com/user-attachments/assets/a31f2903-4c3b-4c32-b5bf-7dcc6c083bde)
+
 
 ## Evidence Checklist
+![Image 2-21-26 at 12 41 AM](https://github.com/user-attachments/assets/3e81d133-4e77-412a-aed1-97f44deb401a)
 
 - [ ] Screenshot: OS version
 - [ ] Screenshot: RAM and CPU details
