@@ -19,6 +19,7 @@
 | Internet Speed (Download) | (from speedtest.net — Mbps) |
 
 ---
+![Image 2-21-26 at 12 41 AM](https://github.com/user-attachments/assets/a31f2903-4c3b-4c32-b5bf-7dcc6c083bde)
 
 ## Evidence Checklist
 
